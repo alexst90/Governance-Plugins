@@ -85,27 +85,27 @@
         "type": "User Apps",
         "name": "New User Apps",
         "project": "User-Apps",
-        "id": "d4ef2f52-8a4a-4e02-bff4-4d7358df0914",
+        "id": "7bedc74f-1fb7-4d27-9ade-8f3113516f76",
         "config": "{}",
         "desktopApps": {
             "type": "Desktop Apps",
             "name": "New Desktop Apps",
             "project": "User-Apps",
-            "id": "738b502c-8d82-4efd-84de-6157dcf5dab4",
+            "id": "9d1e6c5b-58d5-4242-b08f-a4d708b6c21e",
             "config": "{}",
             "socialTradingDesktopApps": [
                 {
                     "type": "Social Trading Desktop App",
                     "name": "Social Trading Desktop App #1",
                     "project": "User-Apps",
-                    "id": "6883b660-7fbe-47f9-aaa5-d278e8a4994a",
+                    "id": "74f9c0e0-36f6-4a0e-ae0a-085afad701f6",
                     "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-1\"\n}",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
                         "project": "Governance",
-                        "id": "6a5fbbeb-3396-4ce9-8a73-d8992d48e39d",
-                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-1\",\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1c\",\"r\":\"0xe310cb796067727ca95c9b4c0a93cced4aa26ce2d1923c5eaa537409fe317482\",\"s\":\"0x2c5b0ca3a03e59c4423b339a0041535210a730f0736aa56c3d83efd9b732c3a2\",\"signature\":\"0xe310cb796067727ca95c9b4c0a93cced4aa26ce2d1923c5eaa537409fe3174822c5b0ca3a03e59c4423b339a0041535210a730f0736aa56c3d83efd9b732c3a21c\"}}"
+                        "id": "161dcf6a-7fa5-4b81-b222-93fda157e4c8",
+                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-1\",\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1b\",\"r\":\"0x38cbd556f9380718508df7ed78a12e6150b01ab59302498460d30ced6fc279fd\",\"s\":\"0x4234fc6ea4a13f597f300de435701f46bb36acb3fbede2ba3e3cc3ed163aa42b\",\"signature\":\"0x38cbd556f9380718508df7ed78a12e6150b01ab59302498460d30ced6fc279fd4234fc6ea4a13f597f300de435701f46bb36acb3fbede2ba3e3cc3ed163aa42b1b\"}}"
                     }
                 }
             ]
